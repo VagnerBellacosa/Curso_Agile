@@ -2,20 +2,20 @@
 
 ## Previsibilidade
 
-## PriorizaÁ„o na pr·tica
+## Prioriza√ß√£o na pr√°tica
 
-## O Poder do Marco LÛgico
+## O Poder do Marco L√≥gico
 
 ## Plano de Carreira
 
-## Ferramenta de apoio lideranÁa
+## Ferramenta de apoio lideran√ßa
 
-## LiÁıes Aprendidas
+## Li√ß√µes Aprendidas
 
 ## Fluxo de Caixa
 
 ## Ferramenta de apoio financeiro
 
-## Ferramenta Gest„o do Conhecimento
+## Ferramenta Gest√£o do Conhecimento
 
-## An·lise do Valor Agregado
+## An√°lise do Valor Agregado

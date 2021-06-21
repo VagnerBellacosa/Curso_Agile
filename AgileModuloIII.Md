@@ -2,28 +2,28 @@
 
 ## Mapadas Partes Interessadas
 
-## Plano de ComunicaÁ„o
+## Plano de Comunica√ß√£o
 
 ## Registro de Contatos
 
 ## Cronograma Micro
 
-## EAP ou WBS - Gr·fico deGantt
+## EAP ou WBS - Gr√°fico deGantt
 
-## MÈtodo ¡gil para Cronograma
+## M√©todo √Ågil para Cronograma
 
-## Plano de Monitoramento e AvaliaÁ„o
+## Plano de Monitoramento e Avalia√ß√£o
 
-## DiferenÁa entre Resultado, Objetivo e Impacto
+## Diferen√ßa entre Resultado, Objetivo e Impacto
 
 ## Grupo de Controle e Grupos Focais
 
-## M&A sem mudanÁa financeira
+## M&A sem mudan√ßa financeira
 
-## M&A apÛs inÌcio do Projeto
+## M&A ap√≥s in√≠cio do Projeto
 
 ## Atrelando M&A ao Cronograma
 
 ## Mapeamento de Riscos
 
-## Import‚ncia da AvaliaÁ„o de Riscos
+## Importancia da Avalia√ß√£o de Riscos

@@ -1,6 +1,6 @@
 # Agile - Modulo IV
 
-## Plano de MudanÁa - Resposta ao Risco
+## Plano de Mudan√ßa - Resposta ao Risco
 
 ## Monitoramento e controle de risco
 
@@ -8,20 +8,20 @@
 
 ## Monitoramento
 
-## Gest„o de Risco ¡gil - Replanejamento e Dicas
+## Gest√£o de Risco √Ågil - Replanejamento e Dicas
 
-## ComunicaÁ„o ¡gil - Replanejamento e Dicas
+## Comunica√ß√£o √Ågil - Replanejamento e Dicas
 
-## Gest„o de Entregas
+## Gest√£o de Entregas
 
 ## Equipe e Riscos
 
-## MudanÁas e Financeiro
+## Mudan√ßas e Financeiro
 
-## Gest„o de Cronograma
+## Gest√£o de Cronograma
 
-## Decisıes embasadas
+## Decis√µes embasadas
 
-## M&A na pr·tica
+## M&A na pr√°tica
 
-## Gest„o de Riscos na pr·tica
+## Gest√£o de Riscos na pr√°tica

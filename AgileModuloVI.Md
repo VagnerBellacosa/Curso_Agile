@@ -1,16 +1,16 @@
 # Agile - Modulo VI
 
-## Ferramenta para Comunicação: CNV
+## Ferramenta para ComunicaÃ§Ã£o: CNV
 
-## Terceirização =Despersonificação
+## TerceirizaÃ§Ã£o = DespersonificaÃ§Ã£o
 
 ## Gerenciamento da Cadeia de Suprimentos
 
-## Softwares de Apoio para Gestão
+## Softwares de Apoio para GestÃ£o
 
 ## O dia a dia do Gestor de Projetos
 
-## Modelos e Funções de Relatórios
+## Modelos e FunÃ§Ãµes de RelatÃ³rios
 
 ## Projeto Social Acaba?
 

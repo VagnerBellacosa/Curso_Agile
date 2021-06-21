@@ -1,24 +1,24 @@
 # Agile - Introducao
 
-## Metodologias Globais de Gest„o
+## Metodologias Globais de Gest√£o
 
-## DiferenÁas e SemelhanÁas dos MÈtodos
+## Diferen√ßas e Semelhan√ßas dos M√©todos
 
-## Tri‚ngulo de Gest„o
+## Triangulo de Gest√£o
 
 ## Caixa de Ferramentas do Gestor
 
-## Tradicional x ¡gil
+## Tradicional x √°gil
 
-## Projetos Programas e PortifÛlio
+## Projetos Programas e Portif√≥lio
 
-## MÈtodo Umanitar
+## M√©todo Umanitar
 
-## Os 3 PrÌncÌpios Umanitar
+## Os 3 Pr√≠ncipios Umanitar
 
-## CompetÍncias do GP Social
+## Competencias do GP Social
 
-## MÈtodo ¡gil em Projetos com Investimento
+## M√©todo √°gil em Projetos com Investimento
 
 ## Fixado
 
@@ -26,14 +26,14 @@
 
 ## Fase 1: Desenho do Projeto
 
-## An·lise SWOT
+## An√°lise SWOT
 
 ## Mapa de Sucessos e Desafios
 
 ## Mapa de Empatia
 
-## ¡rvore de Problemas
+## √°rvore de Problemas
 
-## ¡rvore de Objetivos
+## √°rvore de Objetivos
 
-## Rota de IntervenÁ„o na Pr·tica
+## Rota de Interven√ß√£o na Pr√°tica

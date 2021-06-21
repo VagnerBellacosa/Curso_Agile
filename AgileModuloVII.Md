@@ -2,9 +2,9 @@
 
 ## Planejamento do Encerramento
 
-## Plano de Sustentabilidade e TransiÁ„o
+## Plano de Sustentabilidade e Transi√ß√£o
 
-## RelatÛrio de Impacto
+## Relat√≥rio de Impacto
 
 ## Gestor de Programas x Gestor de Projetos
 
@@ -14,7 +14,7 @@
 
 ## Ciclo de vida do programa
 
-## Pontos fundamentais da Gest„o de Programas
+## Pontos fundamentais da Gest√£o de Programas
 
 ## Replanejamento: Arrumar o carro em movimento
 
